@@ -1,0 +1,575 @@
+Seção 01: Python para iniciantes
+
+XX/0X/2026 Aula 01 - Instalando Recursos.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 02 - Utilizando Print em Python ( Impressão em Tela ).
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 03 - Variáveis em Python.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 04 - Variáveis e Concatenação na Prática.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 05 - Primeiros Cálculos em Python.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 06 - Como  resolver dízimas.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 07 - Captura de teclado - Input em Python.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+XX/0X/2026 Aula 08 - Exemplo completo - Programando com Pyhton na Prática.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 09 - Estrutura IF/ELSE.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 10 - Estrutura IF/ELSE com AND e OR.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 11 - Estrutura de repetição.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 12 - Criando exemplo prático de repetição while.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+***Fim da Seção 01
+
+---------------------------------------------------------------------
+
+Seção 02: Interface Gráfica de Usuário
+
+XX/0X/2026 Aula 13 - Como instalar recursos para interface gráfica.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 14 - Design de interface na prática.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 15 - Identificando campos na interface gráfica.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 16 - Vinculando interface gráfica ao código.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 17 - Funções em Python.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 18 - Calculando resultados do programa.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 19 - Exibindo resultados do programa Python.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 20 - Adicionando recursos de respostas ao software.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 21 - Adicionando resultados na interface gráfica.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+
+***Fim da Seção 02
+
+---------------------------------------------------------------------
+
+Seção 03:MySQL - Desenvolvimento de Banco de Dados
+
+
+XX/0X/2026 Aula 22 - Sobre banco de dados
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 23 - Estruturabásica de um banco de dados.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 24 - Tipos de dados utilizados em SQL.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 25 - Linguagem SQL na prática.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 Aula 26 - Utilizando INSERT INTO.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 27: DDL e DML.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 28: Update.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 29: Atualizando o INSERT INTO. 
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 30: Atualizando dados com update.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 31: Select com a cláusula WHERE. 
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+
+XX/0X/2026 - Aula 32: Utilizando o delete para remoção de dados. 
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+
+XX/0X/2026 - Aula 33: Considerações finais de SQL. 
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+
+***Fim da Seção 03
+
+---------------------------------------------------------------------
+
+Seção 04: Projeto Final - Desenvolvendo Softwaew com Pythoin e MySQLna Prática
+
+XX/0X/2026 - Aula 34: Sobre o projeto final.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 35: Objetivo do software.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 36: Interface gráfica - formulário.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 37: Interface gráfica - relatório.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 38: Interface gráfica - editar
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 39: Interface gráfica - botões.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 40: Cores na interface.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 41: Nomeando botões.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 42: Exibindo a tela de formulário em Python.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 43: Criandobase de dados.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 44: Conectando banco de dados SQL no Python.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 45: Captura de informações do formulário.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 46: Cursor e commit em Python. 
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 47: Finalizando a inserção de dados. 
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 48: Frase de confirmação.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 49: Criando funcção de navegação entre telas.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 50: Leitura de dados.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 51: Leitura de linhas e colunas.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 52: Inserindo dados na tabela com laço FOR.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 53: Update no software. 
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 54: Identificando dados na tabela.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 55: Exibindo a tela de edição.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 56: Arrays.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 57: Utilizando variável global.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 58: Finalizando o update.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 59: Ajuste finais no update.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 60: Delete.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+XX/0X/2026 - Aula 61: Criando o executável do programa Python.
+
+ASSISTIDA: XX/0X/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: XX/0X/2026
+
+Notas:
+
+
+***Fim da Seção 04
+
+---------------------------------------------------------------------
