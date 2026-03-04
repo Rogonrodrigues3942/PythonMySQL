@@ -38,5 +38,3 @@ Curso voltado ao aprendizado de desenvolvimento de software utilizando **Python*
 * Uso de **SQL para operações em banco de dados**
 * Desenvolvimento de **sistemas com CRUD**
 * Integração entre **aplicação Python, interface gráfica e banco de dados**
-
-
