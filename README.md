@@ -29,13 +29,6 @@ Curso voltado ao aprendizado de desenvolvimento de software utilizando **Python*
 * Implementação de operações **CRUD** conectadas ao banco de dados.
 * Construção de um projeto que pode ser utilizado como **portfólio profissional**.
 
-### 🔹 Público-Alvo
-
-* Estudantes de **Tecnologia da Informação**.
-* Iniciantes em **programação e bancos de dados**.
-* Interessados em desenvolver **aplicações com Python e MySQL**.
-* Pessoas que desejam criar seu **primeiro software completo**.
-
 ---
 
 ✅ **Competências Desenvolvidas**
