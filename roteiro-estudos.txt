@@ -13,22 +13,26 @@ Configurando o VS Code.
 Minha máquina está pronta cm versões instaladas.
 
 
-XX/0X/2026 Aula 02 - Utilizando Print em Python ( Impressão em Tela ).
+06/03/2026 Aula 02 - Utilizando Print em Python ( Impressão em Tela ).
 
-ASSISTIDA: XX/0X/2026
-EXERCÍCIO: XX/0X/2026
+ASSISTIDA: 06/03/2026
+EXERCÍCIO: 06/03/2026
 REVISADA: XX/0X/2026
 
 Notas:
 
 
-XX/0X/2026 Aula 03 - Variáveis em Python.
+06/03/2026 Aula 03 - Variáveis em Python.
 
-ASSISTIDA: XX/0X/2026
-EXERCÍCIO: XX/0X/2026
+ASSISTIDA: 06/03/2026
+EXERCÍCIO: 06/03/2026
 REVISADA: XX/0X/2026
 
 Notas:
+
+Explicando como trabalhar com variáveis na liguangem python.
+
+Aula teórica.
 
 
 XX/0X/2026 Aula 04 - Variáveis e Concatenação na Prática.
