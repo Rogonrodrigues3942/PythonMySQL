@@ -1,12 +1,16 @@
 Seção 01: Python para iniciantes
 
-XX/0X/2026 Aula 01 - Instalando Recursos.
+06/03/2026 Aula 01 - Instalando Recursos.
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 06/03/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
 Notas:
+
+Preparando ambiente para o curso, versão do Pyrhon 3.12 ou superior.
+Configurando o VS Code.
+Minha máquina está pronta cm versões instaladas.
 
 
 XX/0X/2026 Aula 02 - Utilizando Print em Python ( Impressão em Tela ).
