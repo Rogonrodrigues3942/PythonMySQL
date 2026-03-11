@@ -35,18 +35,20 @@ Explicando como trabalhar com variáveis na liguangem python.
 Aula teórica.
 
 
-XX/0X/2026 Aula 04 - Variáveis e Concatenação na Prática.
+07/03/2026 Aula 04 - Variáveis e Concatenação na Prática.
 
-ASSISTIDA: XX/0X/2026
-EXERCÍCIO: XX/0X/2026
+ASSISTIDA: 07/03/2026
+EXERCÍCIO: 07/03/2026
 REVISADA: XX/0X/2026
 
 Notas:
 
+Informações básicas de como declarar variáveis e atribuir valores.
 
-XX/0X/2026 Aula 05 - Primeiros Cálculos em Python.
 
-ASSISTIDA: XX/0X/2026
+07/03/2026 Aula 05 - Primeiros Cálculos em Python.
+
+ASSISTIDA: 07/03/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
