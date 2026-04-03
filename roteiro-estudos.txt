@@ -55,14 +55,16 @@ REVISADA: XX/0X/2026
 Notas:
 
 
-XX/0X/2026 Aula 06 - Como  resolver dízimas.
+03/0X/2026 Aula 06 - Como  resolver dízimas.
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 03/0X/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
 Notas:
 
+Explicação de como aplicar formatação de dízimas periódicas.
+Contéudo assimilado.
 
 XX/0X/2026 Aula 07 - Captura de teclado - Input em Python.
 
