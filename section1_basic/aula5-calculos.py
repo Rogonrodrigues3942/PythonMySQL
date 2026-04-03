@@ -16,7 +16,7 @@ total = quantidade * precoCell
 
 print(f'Nome do cliente: {nomeComprador}')
 print(f'Produto: {produto}')
-print(f'{quantidade}')
+print(f'Quantidade: {quantidade}')
 print(f'Preço da unnidade: {precoCell}')
 print(f'Total a pagar: R$ {total}')
 
