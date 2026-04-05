@@ -19,4 +19,4 @@ print('Cálculo de índice de massa corporal (imc).\n')
 peso = 92
 altura = 1.74
 imc = peso/altura
-print(f'O seu IMC é: {imc:.3f} ')
+print(f'O seu IMC é: {imc:.3f}')
