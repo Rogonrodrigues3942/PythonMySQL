@@ -68,8 +68,8 @@ Contéudo assimilado.
 
 05/04/2026 Aula 07 - Captura de teclado - Input em Python.
 
-ASSISTIDA: XX/0X/2026
-EXERCÍCIO: XX/0X/2026
+ASSISTIDA: 05/04/2026
+EXERCÍCIO: 05/04/2026
 REVISADA: XX/0X/2026
 
 Notas:
