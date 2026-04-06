@@ -80,23 +80,24 @@ Notas:
 
 Para realizar a captura de teclado e converter a str para qualquer outro tipo de dado, é muito simples.
 
-XX/0X/2026 Aula 08 - Exemplo completo - Programando com Pyhton na Prática.
+04/04/2026 Aula 08 - Exemplo completo - Programando com Pyhton na Prática.
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 04/04/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
 Notas:
 
 
-XX/0X/2026 Aula 09 - Estrutura IF/ELSE.
+06/04/2026 Aula 09 - Estrutura IF/ELSE.
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 06/04/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
 Notas:
 
+Informações básica sobre a estrutura condicional if ... else.
 
 XX/0X/2026 Aula 10 - Estrutura IF/ELSE com AND e OR.
 
