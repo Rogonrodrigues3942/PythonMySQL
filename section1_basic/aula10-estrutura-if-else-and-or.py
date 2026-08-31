@@ -6,7 +6,7 @@ idadeCandidato = int(input(f'Qual sua idade {nomeCandidato}: '))
 renda = float(input('Por fvr, insira a sua renda mensal bruta: '))
 
 print(f'\nNome do cliente: {nomeCandidato} {sobrenomeCandidato}.')
-print(f'Idade do candedato:  {idadeCandidato}.')
+print(f'Idade do candidato:  {idadeCandidato}.')
 print(f'Salário do cliente: {renda:.2f}.')
 
 limite = 2000
