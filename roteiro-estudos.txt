@@ -111,7 +111,7 @@ Estudando estrutura de if ... else, and e or.
 
 XX/0X/2026 Aula 11 - Estrutura de repetição.
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 31/08/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
