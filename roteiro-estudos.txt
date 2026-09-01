@@ -103,7 +103,7 @@ Informações básica sobre a estrutura condicional if ... else.
 
 ASSISTIDA: 13/04/2026
 EXERCÍCIO: 13/04/2026
-REVISADA: XX/0X/2026
+REVISADA: 31/08/2026
 
 Notas:
 
