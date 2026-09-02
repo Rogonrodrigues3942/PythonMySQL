@@ -18,7 +18,7 @@ while(toContinue == 's' or toContinue == 'S'):
 
     if(toContinue == 'n' or toContinue == 'N'):
         print('\nPrograma encerrado!\n')
-        exit()
+        break
 
     productName = input('Digite o nome do produto: ')
     quantity = int(input('Digite a quantidade; '))
