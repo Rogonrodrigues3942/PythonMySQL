@@ -9,12 +9,15 @@ def principal():
     print(discounts)
     resultado = salary - discounts
     print(resultado)
+    # lblResult --configurando o objeto etiqueta.
+    form.lblResult.setText(str(resultado))
 
 
 # 1 - Declarando as váriáveis de controle da tela
 app = QtWidgets.QApplication([])
 form = uic.loadUi('./section1_basic/salario/tela.ui')
 form.btnCalculate.clicked.connect(principal)
+
 
 # 2 - Renderizando a tela para os usuários
 form.show()
