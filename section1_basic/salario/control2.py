@@ -10,7 +10,7 @@ def principal():
     resultado = salary - discounts
     print(resultado)
     # lblResult --configurando o objeto etiqueta.
-    form.lblResult.setText(str(resultado))
+    form.lblResult.setText(str(f'{resultado:.2f}'))
 
 
 # 1 - Declarando as váriáveis de controle da tela
