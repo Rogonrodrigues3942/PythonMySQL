@@ -3,7 +3,7 @@ from PyQt5 import uic, QtWidgets
 
 # 1 - criando variáveis de controle de tela
 app = QtWidgets.QApplication([])
-formulario = uic.loadUi('./section1_basic/salario/tela.ui')
+formulario = uic.loadUi('.tela2.ui')
 
 # 2 - renderizando a tela
 formulario.show()
