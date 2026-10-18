@@ -141,9 +141,9 @@ REVISADA: XX/0X/2026
 Notas:
 
 
-XX/0X/2026 Aula 14 - Design de interface na prática.
+18/10/2026 Aula 14 - Design de interface na prática.
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 18/10/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
