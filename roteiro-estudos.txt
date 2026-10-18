@@ -150,7 +150,7 @@ REVISADA: XX/0X/2026
 Notas:
 
 
-XX/0X/2026 Aula 15 - Identificando campos na interface gráfica.
+18/10/2026 Aula 15 - Identificando campos na interface gráfica.
 
 ASSISTIDA: XX/0X/2026
 EXERCÍCIO: XX/0X/2026
@@ -158,19 +158,21 @@ REVISADA: XX/0X/2026
 
 Notas:
 
+- Identificando os campos de interação com usuário;
+- Editando nomes dos objetos que serão usados no desenvolvimento,
 
-XX/0X/2026 Aula 16 - Vinculando interface gráfica ao código.
+18/10/2026 Aula 16 - Vinculando interface gráfica ao código.
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 18/10/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
 Notas:
 
 
-XX/0X/2026 Aula 17 - Funções em Python.
+18/10/2026 Aula 17 - Funções em Python.
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 18/10/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 

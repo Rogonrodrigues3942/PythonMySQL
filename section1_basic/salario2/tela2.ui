@@ -178,7 +178,7 @@
      <string>Descontos</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit">
+   <widget class="QLineEdit" name="txtSalary">
     <property name="geometry">
      <rect>
       <x>350</x>
@@ -188,7 +188,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_2">
+   <widget class="QLineEdit" name="txtDiscounts">
     <property name="geometry">
      <rect>
       <x>350</x>
@@ -198,7 +198,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="btnCalculate">
     <property name="geometry">
      <rect>
       <x>420</x>
