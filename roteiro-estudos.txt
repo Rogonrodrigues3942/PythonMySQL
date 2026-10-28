@@ -165,7 +165,7 @@ Notas:
 
 ASSISTIDA: 18/10/2026
 EXERCÍCIO: XX/0X/2026
-REVISADA: XX/0X/2026
+REVISADA: 25/10/2026
 
 Notas:
 
@@ -173,19 +173,19 @@ Notas:
 18/10/2026 Aula 17 - Funções em Python.
 
 ASSISTIDA: 18/10/2026
-EXERCÍCIO: XX/0X/2026
-REVISADA: XX/0X/2026
+EXERCÍCIO: 18/10/2026
+REVISADA: 28/10/2026
 
 Notas:
 
 
-XX/0X/2026 Aula 18 - Calculando resultados do programa.
+18/10/2026 Aula 18 - Calculando resultados do programa.
 
-ASSISTIDA: XX/0X/2026
-EXERCÍCIO: XX/0X/2026
-REVISADA: XX/0X/2026
+ASSISTIDA:18/10/2026
+EXERCÍCIO: 18/10/2026
+REVISADA: 28/10/2026
 
-Notas:
+Notas: Deixando a "def principal" calculando o salário líquido ( salário - descontos).
 
 
 XX/0X/2026 Aula 19 - Exibindo resultados do programa Python.
