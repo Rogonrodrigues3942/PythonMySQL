@@ -9,7 +9,7 @@ def principal():
     print(f'desconto: {discounts:.2f}')
     result = salary - discounts
     print(f'resultado: {result:.2f}')
-    form.lblResult.setText(str(f'{resultado:.2f}'))
+    formulario.lblResult.setText(str(f'{result:.2f}'))
 
 
 

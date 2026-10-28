@@ -188,10 +188,10 @@ REVISADA: 28/10/2026
 Notas: Deixando a "def principal" calculando o salário líquido ( salário - descontos).
 
 
-XX/0X/2026 Aula 19 - Exibindo resultados do programa Python.
+19/10/2026 Aula 19 - Exibindo resultados do programa Python.
 
-ASSISTIDA: XX/0X/2026
-EXERCÍCIO: XX/0X/2026
+ASSISTIDA: 19/10/2026
+EXERCÍCIO: 19/10/2026
 REVISADA: XX/0X/2026
 
 Notas:
