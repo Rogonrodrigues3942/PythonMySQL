@@ -18,7 +18,7 @@ app = QtWidgets.QApplication([])    #^Cria o objeto responsável por gerenciar a
 
 # formulario = uic.loadUi('./section1_basic/salario2/tela2.ui') #^ permite acessar os componentes da tela.
 formulario = uic.loadUi('./tela2.ui') #^Carrega a interface gráfica.
-formulario.btnCalculate.clicked.connect(principal) #^ Botão acionado por clicque e invocar a def principal().
+formulario.btnCalculate.clicked.connect(principal) #^ Botão acionado por clique e invocar a def principal().
 
 
 #* 2 - renderizando a tela ##  Exibi a interface
