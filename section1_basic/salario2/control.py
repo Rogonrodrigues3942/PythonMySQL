@@ -14,14 +14,14 @@ def principal():
 
 
 #*1 - criando variáveis de controle de tela
-app = QtWidgets.QApplication([])    # widgets se tornam elementos da aplicação.
+app = QtWidgets.QApplication([])    #^Cria o objeto responsável por gerenciar a aplicação gráfica.
 
 # formulario = uic.loadUi('./section1_basic/salario2/tela2.ui') #^ permite acessar os componentes da tela.
-formulario = uic.loadUi('./tela2.ui')
-formulario.btnCalculate.clicked.connect(principal) #^ Botão acionado por clicar e invocar a def principal().
+formulario = uic.loadUi('./tela2.ui') #^Carrega a interface gráfica.
+formulario.btnCalculate.clicked.connect(principal) #^ Botão acionado por clicque e invocar a def principal().
 
 
-#* 2 - renderizando a tela
+#* 2 - renderizando a tela ##  Exibi a interface
 formulario.show()
 
 #* Executando a aplicação. Permitindo a interação do usuário.
