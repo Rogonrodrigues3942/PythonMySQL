@@ -201,10 +201,10 @@ Notas:  - Criada a funcionaidade de exibir o salario líquido na etiqueta "lblRe
 08/11/2026 Aula 20 - Adicionando recursos de respostas ao software.
 
 ASSISTIDA: 08/11/2026
-EXERCÍCIO: XX/0X/2026
+EXERCÍCIO:08/11/2026
 REVISADA: XX/0X/2026
 
-Notas:
+Notas: - convertido o desconto em porcentagem, foi realizado no arquivo "control2.py";
 
 
 XX/0X/2026 Aula 21 - Adicionando resultados na interface gráfica.
