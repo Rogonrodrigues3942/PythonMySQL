@@ -198,9 +198,9 @@ Notas:  - Criada a funcionaidade de exibir o salario líquido na etiqueta "lblRe
         - No caso o dado float foi convertido para string.
 
 
-XX/0X/2026 Aula 20 - Adicionando recursos de respostas ao software.
+08/11/2026 Aula 20 - Adicionando recursos de respostas ao software.
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 08/11/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
