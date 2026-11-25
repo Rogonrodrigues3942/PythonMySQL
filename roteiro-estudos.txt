@@ -224,22 +224,26 @@ Notas:
 Seção 03:MySQL - Desenvolvimento de Banco de Dados
 
 
-XX/0X/2026 Aula 22 - Sobre banco de dados
+22/0X/2026 Aula 22 - Sobre banco de dados
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 19/11/2026
+EXERCÍCIO: XX/0X/2026
+REVISADA: 22/11/2026
+
+Notas:
+
+Instalando o MySQL on Sunday(22/11).
+
+
+25/11/2026 Aula 23 - Estrutura básica de um banco de dados.
+
+ASSISTIDA: 25/11/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
 Notas:
-
-
-XX/0X/2026 Aula 23 - Estruturabásica de um banco de dados.
-
-ASSISTIDA: XX/0X/2026
-EXERCÍCIO: XX/0X/2026
-REVISADA: XX/0X/2026
-
-Notas:
+        1 - Aula teórica como configurar o workbench no MySQL;
+        2 - Explicando sobre o comando "CREATE" para criar database e tables.
 
 
 XX/0X/2026 Aula 24 - Tipos de dados utilizados em SQL.
