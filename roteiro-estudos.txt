@@ -246,13 +246,14 @@ Notas:
         2 - Explicando sobre o comando "CREATE" para criar database e tables.
 
 
-XX/0X/2026 Aula 24 - Tipos de dados utilizados em SQL.
+25/11/2026 Aula 24 - Tipos de dados utilizados em SQL.
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 25/11/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
 Notas:
+        1 - Aula téorica, explicação sobre os tipos de dados básicosso SQL.
 
 
 XX/0X/2026 Aula 25 - Linguagem SQL na prática.
