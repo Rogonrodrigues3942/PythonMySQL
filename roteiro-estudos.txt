@@ -256,13 +256,19 @@ Notas:
         1 - Aula téorica, explicação sobre os tipos de dados básicosso SQL.
 
 
-XX/0X/2026 Aula 25 - Linguagem SQL na prática.
+26/11/2026 Aula 25 - Linguagem SQL na prática.
 
-ASSISTIDA: XX/0X/2026
+ASSISTIDA: 26/11/2026
 EXERCÍCIO: XX/0X/2026
 REVISADA: XX/0X/2026
 
 Notas:
+        - Criação de banco de ddos: CREATE DATABASE "produtos";
+        - SCHEMA:  mostra os bancos de dados criados no "SGBD";
+        - "use" + "banco de dados": permitirá a manipulação do DATABASE determinado;
+        - "output" é área do workbench que registrará o resultados das manipulações;
+        - "Primary key" explicação sobre a utilidade da chave primária.
+
 
 
 XX/0X/2026 Aula 26 - Utilizando INSERT INTO.
